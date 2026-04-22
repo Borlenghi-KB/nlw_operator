@@ -78,5 +78,3 @@ pip install torch torchvision
 
 # Execute o notebook
 jupyter notebook
-
-<p align="center"> Feito por <strong>Kaique Borlenghi</strong> </p> ```
